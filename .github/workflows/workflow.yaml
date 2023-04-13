@@ -15,5 +15,5 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: workflow
-        run: echo "workflow"
+        run: echo "wf"
         shell: bash
